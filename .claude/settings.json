@@ -31,5 +31,8 @@
       "Edit(README.md)"
     ],
     "defaultMode": "default"
+  },
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true
   }
 }
